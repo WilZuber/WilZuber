@@ -1,6 +1,3 @@
-echo "# Gliavoc" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Gliavoc/Gliavoc.git
-git push -u origin master
+Gliav
+
+Welcome to Gliavoc, where I will code stuff which is something I am not good at. At all.b/
