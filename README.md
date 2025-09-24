@@ -1,5 +1,5 @@
 
-<header><h1>Wilson Z.<h1></header>
+<header><h1>Wil Z.<h1></header>
 
 Incoming Computer Science Master's student with a BS in Computer Science and minors in Linguistics and Honors Interdisciplinary Studies.
 <ul>
